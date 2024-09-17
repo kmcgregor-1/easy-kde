@@ -1,2 +1,2 @@
 # easy-kde
-"easy" kernel density estimation with sampling
+"easy" kernel density estimation with sampling functionality
